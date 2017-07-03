@@ -1,0 +1,15 @@
+{
+    "name": "sleepcat/laravel-hgt-reader",
+    "authors": [
+        {
+            "name": "roger-chang",
+            "email": "ga796324@gmail.com.tw"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SleepCat\\LaravelHgtReader\\": "src/"
+        }
+    },
+}
