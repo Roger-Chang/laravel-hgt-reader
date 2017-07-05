@@ -41,3 +41,5 @@ Add the facade to your `config/app.php` file:
     // Get elevation
     $el = HgtReader::getElevation($lat, $lon);
 ```
+## Download htg files
+[Here](http://www.viewfinderpanoramas.org/Coverage%20map%20viewfinderpanoramas_org3.htm)
