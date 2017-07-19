@@ -36,6 +36,7 @@ Add the facade to your `config/app.php` file:
     use HgtReader;
 
     // Set Hgt files path in /storage
+    $hgtPath = "/hgt";
     HgtReader::init($hgtPath, 3);
     
     // Get elevation
